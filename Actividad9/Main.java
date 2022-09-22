@@ -1,4 +1,8 @@
 package Actividad9;
+import java.util.*;
+import Actividad9.persona;
+import Actividad9.Estudiante;
+import Actividad9.Empleado;
 
 public class Main {
 
@@ -15,11 +19,14 @@ public class Main {
         persona[2] = persona3;
         persona[3] = persona4;
 
-    }
-    
+        /*String introduceDni="45159890A";
 
-    public void listarDni(){
+        if(getDni() == introduceDni){
 
+            Arrays.asList(persona).contains("45159890A");*/
         
+
     }
+
+    
 }

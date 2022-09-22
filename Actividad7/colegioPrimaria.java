@@ -12,7 +12,7 @@ public colegioPrimaria(){
     evento="";
 }
 
-public colegioPrimaria(String evento_mensual,String nombre_centro, int numero_profesores, int numero_alumnos, String postal){
+public colegioPrimaria(String evento,String nombre_centro, int numero_profesores, int numero_alumnos, String postal){
 
     super(nombre_centro, numero etc)
     this.evento = evento;
