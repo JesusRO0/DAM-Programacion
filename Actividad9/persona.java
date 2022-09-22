@@ -39,8 +39,7 @@ public class persona{
     }
 
     public void lista(){
-        System.out.println();
-        
+     
     }
     
     @Override
